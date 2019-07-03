@@ -1,0 +1,9 @@
+C:\repos\Miclone\csharp\DevOpsTest\bin\Debug\DevOpsTest.exe.config
+C:\repos\Miclone\csharp\DevOpsTest\bin\Debug\DevOpsTest.exe
+C:\repos\Miclone\csharp\DevOpsTest\bin\Debug\DevOpsTest.pdb
+C:\repos\Miclone\csharp\DevOpsTest\obj\Debug\DevOpsTest.csprojAssemblyReference.cache
+C:\repos\Miclone\csharp\DevOpsTest\obj\Debug\DevOpsTest.Properties.Resources.resources
+C:\repos\Miclone\csharp\DevOpsTest\obj\Debug\DevOpsTest.csproj.GenerateResource.cache
+C:\repos\Miclone\csharp\DevOpsTest\obj\Debug\DevOpsTest.csproj.CoreCompileInputs.cache
+C:\repos\Miclone\csharp\DevOpsTest\obj\Debug\DevOpsTest.exe
+C:\repos\Miclone\csharp\DevOpsTest\obj\Debug\DevOpsTest.pdb
